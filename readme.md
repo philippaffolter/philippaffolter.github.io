@@ -5,9 +5,7 @@ I do this:<br>
 <!--
 :floppy_disk: :point_right: :dvd: :point_right: :computer: :point_right: :iphone: :point_right: :cloud: :point_right: :smiley:<br>
 -->
-##
-
-Let's Connect<br>
+## Let's Connect<br>
 [![Let's Connect](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/philippaffolter)
 
 <!--
@@ -20,5 +18,5 @@ Let's Connect<br>
 -->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=philippaffolter&theme=github-dark)](https://git.io/streak-stats)
-##
+<br>
 ![](https://komarev.com/ghpvc/?username=philippaffolter)  [![Years Badge](https://badges.pufler.dev/years/philippaffolter)](https://badges.pufler.dev)
