@@ -4,4 +4,4 @@
 Do connect with me on LinkedIn and reach out if moving infrastructure services and workloads to cloud are of interest to you.
 
 |->|->||
-|
+|![CD](https://raw.githubusercontent.com/philippaffolter/philippaffolter.github.io/main/docs/emojis/cd.png)|![Cloud](https://raw.githubusercontent.com/philippaffolter/philippaffolter.github.io/main/docs/emojis/cloud.png)|
