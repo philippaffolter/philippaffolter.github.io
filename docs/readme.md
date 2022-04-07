@@ -6,6 +6,6 @@ Do connect with me on LinkedIn and reach out if moving infrastructure services a
 |Legacy Source|Modern Source|Me|
 |:-:|:-:|:-:|
 |![CD](https://raw.githubusercontent.com/philippaffolter/philippaffolter.github.io/main/docs/emojis/cd.png)|![Cloud](https://raw.githubusercontent.com/philippaffolter/philippaffolter.github.io/main/docs/emojis/cloud.png)|![Smiles](https://raw.githubusercontent.com/philippaffolter/philippaffolter.github.io/main/docs/emojis/happy.png)|
-|![Floppy](https://raw.githubusercontent.com/philippaffolter/philippaffolter.github.io/main/docs/emojis/floppy.png)||![Hearts](https://raw.githubusercontent.com/philippaffolter/philippaffolter.github.io/main/docs/emojis/stars.png)|
+|![Floppy](https://raw.githubusercontent.com/philippaffolter/philippaffolter.github.io/main/docs/emojis/floppy.png)||![Hearts](https://raw.githubusercontent.com/philippaffolter/philippaffolter.github.io/main/docs/emojis/hearts.png)|
 |![Laptop](https://raw.githubusercontent.com/philippaffolter/philippaffolter.github.io/main/docs/emojis/laptop.png)||![Stars](https://raw.githubusercontent.com/philippaffolter/philippaffolter.github.io/main/docs/emojis/stars.png)|
 |![Phone](https://raw.githubusercontent.com/philippaffolter/philippaffolter.github.io/main/docs/emojis/phone.png)|||
