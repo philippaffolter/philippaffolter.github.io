@@ -19,4 +19,4 @@ I do this:<br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=philippaffolter&theme=github-dark)](https://git.io/streak-stats)
 <br>
-![](https://komarev.com/ghpvc/?username=philippaffolter)  [![Years Badge](https://badges.pufler.dev/years/philippaffolter)](https://badges.pufler.dev)
+![](https://komarev.com/ghpvc/?username=philippaffolter)
