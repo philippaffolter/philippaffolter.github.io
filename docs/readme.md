@@ -3,7 +3,7 @@
 <br>
 <br>
 
-[Follow my 2022 GitHub Skyline](https://skyline.github.com/philippaffolter/2022)
+[Follow my 2023 GitHub Skyline](https://skyline.github.com/philippaffolter/2023)
 <br>
 <br>
 <br>
