@@ -1,9 +1,6 @@
 [![Let's Connect](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/philippaffolter)
 <br>
-
 [Follow my GitHub Skyline](https://skyline.github.com/philippaffolter/2022)
-<br>
-<br>
 <br>
 Do connect with me on LinkedIn and reach out if moving infrastructure services and workloads to cloud are of interest to you.
 
